@@ -6,7 +6,7 @@ A project performing basic data extraction by rotating proxy IP addresses and ro
 In this project, I am extracting data from 'dailymail.co.uk' by using the requests library to fetch raw HTML by using proxy IP addresses and rotating user agents. Here I will be using Newspaper3k to parse the raw HTML.
 
 ## Files required
-Download the 'keyword.csv' through this link which contains 12000 random keywords
+Download the 'keyword.csv' through this link which contains 12000 random keywords.  
 https://drive.google.com/file/d/1QAvH4grCrj_JbZwKD4-OwvXNcDK3yPGl/view?usp=sharing
 
 ## Solution
@@ -27,3 +27,7 @@ https://medium.com/p/a36c2e295a0d/edit
 This article is majorly divided into 2 parts
 - Fetching URLs
 - Data extraction and saving it in a CSV file
+
+## Made by:
+RISHIKA VAISH  
+Email id: rishikavaish321@gmail.com
